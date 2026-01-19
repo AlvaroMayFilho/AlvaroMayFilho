@@ -34,6 +34,7 @@
   <br><br>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Porto_Velho-RO-000000?style=for-the-badge&logo=google-maps&logoColor=bd34fe" />
