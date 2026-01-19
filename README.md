@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=root%40alvaro%3A~%24+initiating+system...;Ol%C3%A1%2C+eu+sou+Alvaro+May+Filho;Full+Stack+Developer;Kotlin+%2F+Python+%2F+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=root%40alvaro%3A~%24+initiating+system...;Co-founder+%26+Software+Developer;Solu%C3%A7%C3%B5es+Web+%2F+Mobile+%2F+Automa%C3%A7%C3%A3o;Tirando+ideias+do+papel+com+c%C3%B3digo" alt="Typing SVG" />
   </a>
 
   <br>
@@ -30,9 +30,12 @@
   <br>
 
   <div align="center">
+    <a href="https://instagram.com/alvaromay.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mobile_Dev-000000?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
     <img src="https://img.shields.io/badge/Porto_Velho-RO-000000?style=for-the-badge&logo=google-maps&logoColor=bd34fe" />
   </div>
 
