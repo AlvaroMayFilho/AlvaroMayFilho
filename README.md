@@ -1,10 +1,10 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=root%40alvaro%3A~%24+initiating+system...;Ol%C3%A1%2C+eu+sou+Alvaro+May+Filho;Full+Stack+Developer;Kotlin+%2F+Python+%2F+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=root%40alvaro%3A~%24+initiating+system...;Ol%C3%A1%2C+eu+sou+Alvaro+May+Filho;Full+Stack+Developer;Kotlin+%2F+Python+%2F+TypeScript" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -47,7 +47,14 @@
   <br><br>
 
   <a href="https://AlvaroMayFilho.github.io">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=FFFFFF&width=435&lines=___++++__++++++++++++++++++++++__++___+++++++++++++;%2F+++%7C++%2F+%2F_+++______+_________+%2F++%7C%2F++%2F___+___++__;%2F+%2F%7C+%7C+%2F+%2F%7C+%7C+%2F+%2F+__+%60%2F+___%2F+__+%5C+%2F%7C_%2F+%2F+__+%60%2F+%2F+%2F+%2F;%2F+___+%7C%2F+%2F+%7C+%7C%2F+%2F+%2F_%2F+%2F+%2F++%2F+%2F_%2F+%2F+%2F++%2F+%2F+%2F_%2F+%2F+%2F_%2F+%2F;%2F_%2F++%7C_%2F_%2F++%7C___%2F%5C__%2C_%2F_%2F++%5C____%2F_%2F++%2F_%2F%5C__%2C_%2F%5C__%2C+%2F;++++++++++++++++++++++++++++++++++++++++++++++%2F____%2F" alt="Assinatura ASCII" />
+  <pre>
+    ___    __                      __  ___             
+   /   |  / /_   ______ _________ /  |/  /___ ___  __
+  / /| | / /| | / / __ `/ ___/ __ \ /|_/ / __ `/ / / /
+ / ___ |/ / | |/ / /_/ / /  / /_/ / /  / / /_/ / /_/ / 
+/_/  |_/_/  |___/\__,_/_/   \____/_/  /_/\__,_/\__, /  
+                                              /____/   
+  </pre>
   </a>
 
 </div>
