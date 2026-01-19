@@ -18,7 +18,7 @@
       </td>
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// TECH STACK</h3>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayFilho&layout=compact&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&langs_count=6&hide=css,html" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayFilho&layout=compact&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&langs_count=6&hide=css,html,roff,Smarty" />
       </td>
     </tr>
   </table>
