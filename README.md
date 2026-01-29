@@ -15,13 +15,13 @@
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// NETWORK STATUS</h3>
         <div align="center">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayFilho&show_icons=true&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&icon_color=bd34fe&hide=stars" />
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayFilho&show_icons=true&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&icon_color=bd34fe&hide=stars&v=2" alt="GitHub Stats" />
         </div>
       </td>
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// TECH STACK</h3>
         <div align="center">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayFilho&layout=compact&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&langs_count=6&hide=css,html,roff,Smarty,scss" />
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayFilho&layout=compact&theme=transparent&hide_border=true&title_color=00f0ff&text_color=fff&langs_count=6&hide=css,html,roff&v=2" alt="Top Languages" />
         </div>
       </td>
     </tr>
@@ -51,8 +51,8 @@
 
   <a href="https://AlvaroMayFilho.github.io">
   <pre>
-    ___    __                      __  ___             
-   /   |  / /_   ______ _________ /  |/  /___ ___  __
+    ___    __                       __  ___              
+   /   |  / /_    ______ _________ /  |/  /___ ___  __
   / /| | / /| | / / __ `/ ___/ __ \ /|_/ / __ `/ / / /
  / ___ |/ / | |/ / /_/ / /  / /_/ / /  / / /_/ / /_/ / 
 /_/  |_/_/  |___/\__,_/_/   \____/_/  /_/\__,_/\__, /  
