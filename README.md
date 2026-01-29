@@ -15,13 +15,13 @@
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// NETWORK STATUS</h3>
         <div align="center">
-          <img height="170" src="https://github-readme-stats.vercel.app/api?username=alvaromayfilho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=final_fix_01" alt="GitHub Stats" />
+          <img height="170" src="https://github-readme-stats-sigma.vercel.app/api?username=AlvaroMayFilho&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=bd34fe&hide_border=true&count_private=true" alt="GitHub Stats" />
         </div>
       </td>
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// TECH STACK</h3>
         <div align="center">
-          <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromayfilho&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=final_fix_01" alt="Top Languages" />
+          <img height="170" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=AlvaroMayFilho&layout=compact&theme=tokyonight&title_color=00f0ff&hide_border=true&langs_count=6" alt="Top Languages" />
         </div>
       </td>
     </tr>
