@@ -13,15 +13,15 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <h3 align="center" style="color:#00f0ff">/// NETWORK STATUS</h3>
+        <h3 align="center" style="color:#00f0ff">/// STREAK STATUS</h3>
         <div align="center">
-          <img src="https://metrics.lecoq.io/AlvaroMayFilho?template=classic&base=header%2C%20repositories&base.header=0&base.repositories=0&metadata=1&config.timezone=America%2FPorto_Velho&theme=tokyonight" alt="GitHub Stats" width="400" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroMayFilho&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=bd34fe&fire=bd34fe&currStreakLabel=BD34FE" alt="GitHub Streak" />
         </div>
       </td>
       <td valign="top" width="50%">
         <h3 align="center" style="color:#00f0ff">/// TECH STACK</h3>
         <div align="center">
-          <img src="https://metrics.lecoq.io/AlvaroMayFilho?template=classic&base=0&languages=1&languages.limit=8&languages.sections=most-used&theme=tokyonight" alt="Top Languages" width="400" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlvaroMayFilho&theme=tokyonight" alt="Repos per Language" />
         </div>
       </td>
     </tr>
